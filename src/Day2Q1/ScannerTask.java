@@ -41,4 +41,6 @@ public class ScannerTask {
 		String i = s.next();
 		System.out.println("Employee City="+i);
 
+		
+		System.out.println("Tes01");
 }}
